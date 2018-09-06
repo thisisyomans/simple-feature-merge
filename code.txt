@@ -1,7 +1,7 @@
 Section 1:
 
 Section 2: Ari Stassinopoulos
-
+This is Ari's code. There are many like it, but this one is Ari's. Without my code, I am useless. Without me, my code is useless.
 Section 3:
 
 Section 4:
